@@ -1,0 +1,55 @@
+﻿@font-face {
+  font-family: "besit-icon";
+  src: url("../fonts/besit-icon.eot");
+  src: url("../fonts/besit-icon.eot") format("embedded-opentype"),
+    url("../fonts/besit-icon.ttf") format("truetype"),
+    url("../fonts/besit-icon.woff") format("woff"),
+    url("../fonts/besit-icon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="besit-icon-"],
+[class*=" besit-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "besit-icon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.besit-icon-person:before {
+  content: "\e900";
+}
+.besit-icon-seo-report:before {
+  content: "\e901";
+}
+.besit-icon-investor:before {
+  content: "\e902";
+}
+.besit-icon-leader:before {
+  content: "\e903";
+}
+.besit-icon-document:before {
+  content: "\e904";
+}
+.besit-icon-clock1:before {
+  content: "\e905";
+}
+.besit-icon-medal:before {
+  content: "\e906";
+}
+.besit-icon-mail:before {
+  content: "\e907";
+}
+.besit-icon-phone:before {
+  content: "\e908";
+}
