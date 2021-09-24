@@ -37,8 +37,8 @@ font-family: 'Roboto', sans-serif; */
   --special-font: "Poppins", sans-serif;
   --primary: #fe0040;
   --primary-rgb: 254, 0, 64;
-  --black: #182c44;
-  --black-rgb: 24, 44, 68;
+  --black: rgb(0, 35, 75);
+  --black-rgb: 0, 35, 75;
   --text: #888888;
   --black-bg: #0a1829;
 }
